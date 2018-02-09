@@ -1,4 +1,5 @@
 say_hello = "Kent Beck"
 
-puts say_hello
+def say_hello
+end
 
