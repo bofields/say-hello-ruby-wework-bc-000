@@ -2,6 +2,6 @@ say_hello = "Kent Beck"
 
 def say_hello(name)
   
-  puts "Hello Kent Back"!
+  puts "Hello #{name}!"
 end
 
